@@ -2,8 +2,6 @@ github.com/go-resty/resty/v2 v2.0.0 h1:9Nq/U+V4xsoDnDa/iTrABDWUCuk3Ne92XFHPe6dKW
 github.com/go-resty/resty/v2 v2.0.0/go.mod h1:dZGr0i9PLlaaTD4H/hoZIDjQ+r6xq8mgbRzHZf7f2J8=
 github.com/google/go-querystring v1.0.0 h1:Xkwi/a1rcvNg1PPYe5vI8GbeBY/jrVuDX5ASuANWTrk=
 github.com/google/go-querystring v1.0.0/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
-github.com/jbogarin/go-cisco-webex-teams v0.4.0 h1:j6/fA50jwWPgP3WfplOODdwCx0f2AFCXAF35sH2jTGA=
-github.com/jbogarin/go-cisco-webex-teams v0.4.0/go.mod h1:jq7mlkTnkTTmM9w0wTS0PnrRL0LWgFVMRWbYH2HO7Ow=
 github.com/peterhellberg/link v1.0.0 h1:mUWkiegowUXEcmlb+ybF75Q/8D2Y0BjZtR8cxoKhaQo=
 github.com/peterhellberg/link v1.0.0/go.mod h1:gtSlOT4jmkY8P47hbTc8PTgiDDWpdPbFYl75keYyBB8=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
